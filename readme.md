@@ -6,7 +6,7 @@
   ## Installation
 To get a local copy up and running follow these simple steps.
 
-download repo from Gitlab (or similar), check and update code in VS code, test in terminal. Create databases in MySQL. Test database function in MySQL. Run and test browser functions (including server) in Google Chrome)
+download repo from Github , check and update code in VS code, test in terminal. Create databases in MySQL. Test database function in MySQL. Run and test browser functions (including server) in Google Chrome)
 
 ## Usage
 
