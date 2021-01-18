@@ -12,7 +12,7 @@ download repo from Github , check and update code in VS code, test in terminal. 
 
 This project can be used for undefined. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-For more examples, please refer to the Documentation
+
 ![Screen2](https://user-images.githubusercontent.com/71414528/104886436-9ba36600-591e-11eb-8b8d-2362b01ce8f8.PNG)
 
 ## Tests
