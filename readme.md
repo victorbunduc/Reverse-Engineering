@@ -1,4 +1,4 @@
-<h1> ## Reverse-Engineering </h1>
+<h1> Reverse-Engineering </h1>
 
   This project is a walk through of a codebase that the user can use to create a new project with NPM,  Node, Passport, Sequelize and MySQL
  
